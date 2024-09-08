@@ -2,7 +2,7 @@
 
 **Survivor** is an immersive survival game where you must outlast relentless monsters in a perilous world. Armed with your wits and reflexes, engage in fast-paced combat, explore the environment, and make sure you’re always a step ahead of the creatures lurking around every corner. 
 
-![HolidRoute Demo](demo.gif)
+![Demo](demo.gif)
 
 ## 🎮 Gameplay Overview
 
